@@ -1,0 +1,24 @@
+{
+  "name": "blog.ghostinthepenny.com",
+  "version": "1.0.0",
+  "description": "Powers the blog at blog.ghostinthepenny.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostinthepenny/blog.ghostinthepenny.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghostinthepenny/blog.ghostinthepenny.com/issues"
+  },
+  "homepage": "https://github.com/ghostinthepenny/blog.ghostinthepenny.com#readme",
+  "type": "module",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
