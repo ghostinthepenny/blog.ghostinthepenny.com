@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Powers the blog at blog.ghostinthepenny.com",
   "main": "index.js",
-  "scripts" {
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,6 @@
   "homepage": "https://github.com/ghostinthepenny/blog.ghostinthepenny.com#readme",
   "type": "module",
   "dependencies": {
-    "@11ty/eleventy": "^ 3.1.2"
+    "@11ty/eleventy": "^3.1.2"
   }
 }
